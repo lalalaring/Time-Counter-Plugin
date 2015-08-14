@@ -22,3 +22,8 @@ It counts the time you are developing games with unreal engine. The time is then
 
 Coded with love for the Facebook Community:
 facebook.com/groups/ue4devs/ 
+
+
+Copyright 1998-2015 Epic Games, Inc. All Rights Reserved.
+
+Plugin by Marc Frädrich from FinalSpark Gamestudios UG (haftungsbeschränkt)
