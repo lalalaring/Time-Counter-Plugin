@@ -1,0 +1,21 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "Time Counter",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Marc Fraedrich",
+	"CreatedByURL" : "http://finalspark-gamestudios.com",
+	"EngineVersion" : "4.8.0",
+	"Description" : "This plugin counts how much time you invest for developing your game. Made with love for the Facebook Unreal Engine Community from Marc Fraedrich.",
+	"Category" : "Useful",
+	"EnabledByDefault" : true,
+	
+	"Modules" :
+	[
+		{
+			"Name" : "timecounter",
+			"Type" : "Developer"
+		}
+	]
+}
